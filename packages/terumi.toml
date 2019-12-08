@@ -11,6 +11,13 @@ description = 'The standard terumi library'
 # with all subsequent (and older) versions being near the end.
 
 [[snapshot]]
+version = '0.0.3'
+path = ''
+git_url = 'https://github.com/terumi-project/terumi_std'
+branch = 'master'
+commit = '725a0c5ee2c2c7f2d92cce09be5b4292db6e3b44'
+
+[[snapshot]]
 version = '0.0.2'
 path = ''
 git_url = 'https://github.com/terumi-project/terumi_std'
