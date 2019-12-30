@@ -1,0 +1,13 @@
+# JSON library for Terumi.
+# The latest version may be found at https://github.com/terumi-project/json
+
+name = 'json'
+author = 'SirJosh3917'
+description = 'JSON library written in Terumi'
+
+[[snapshot]]
+version = '0.0.1'
+path = ''
+git_url = 'https://github.com/terumi-project/json'
+branch = 'master'
+commit = '0a26c21508cf9fab22469d29cc570109706964d0'
