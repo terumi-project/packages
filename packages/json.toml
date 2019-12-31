@@ -6,6 +6,13 @@ author = 'SirJosh3917'
 description = 'JSON library written in Terumi'
 
 [[snapshot]]
+version = '0.0.2'
+path = ''
+git_url = 'https://github.com/terumi-project/json'
+branch = 'master'
+commit = '6499d0858885990183d657413be04c53837f949b'
+
+[[snapshot]]
 version = '0.0.1'
 path = ''
 git_url = 'https://github.com/terumi-project/json'
